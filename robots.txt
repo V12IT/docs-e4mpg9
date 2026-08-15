@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-t5f86r.koi888.sbs/sitemap.xml
